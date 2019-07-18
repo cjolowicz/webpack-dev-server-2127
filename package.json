@@ -1,0 +1,12 @@
+{
+  "name": "webpack-dev-server-2127",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Claudio Jolowicz <claudio.jolowicz@cyren.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.36.1",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2"
+  }
+}
